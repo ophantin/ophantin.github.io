@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ophantin.github.io/sitemap
+Sitemap: https://ophantin.github.io/app/sitemap
+Sitemap: https://ophantin.github.io/assets/sitemap
+Sitemap: https://ophantin.github.io/css/sitemap
+Sitemap: https://ophantin.github.io/includes/sitemap
+Sitemap: https://ophantin.github.io/item/sitemap
+Sitemap: https://ophantin.github.io/src/sitemap
